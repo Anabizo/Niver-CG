@@ -6,7 +6,7 @@ export default function BirthdayPage() {
 	const yourName = "Dona Onça 🐆";
 	const message =
 		"Hoje é o seu dia especial e com esse pequenino site te desejo parabéns! Você é uma pessoa incrível, cheia de luz e energia positiva, e o mundo é definitivamente melhor contigo nele. Sou grata por cada momento que passamos juntos, por cada conversa e cada risada, e vamos ter muitos mais ainda! Vamos crescer e conquistar as coisas juntos, torço pelo seu sucesso e espero que só receba alegria, carinho, saúde, dindin e momentos inesquecíveis! Feliz niver :3";
-	const imageUrl = "/cg-e-eu.jpeg"; // Coloque sua imagem na pasta public
+	const imageUrl = "/cg-e-eu.jpeg";
 
 	return (
 		<div className="min-h-screen bg-gradient-to-br from-blue-400 to-blue-900 py-12 px-4 sm:px-6 lg:px-8">
